@@ -55,27 +55,20 @@ Should we proceed with a Difference-in-Differences (DiD) design around the 2018 
 Do you recommend applying for restricted researcher access through a Federal Statistical Research Data Center (FSRDC), or focusing strictly on public DOT air freight and CDC WONDER data for this term?
 
 Other potential projects: 
-1. Healthcare Economics & Policy Analysis
-Topic: The Impact of State-Level Naloxone Access Laws and Over-the-Counter (OTC) Transitions on Synthetic Opioid Mortality
-Core Question: How does expanding naloxone (Narcan) availability—through standing orders, third-party prescriptions, or OTC reclassification—affect local overdose mortality and emergency room utilization?
-Economic Theory: Moral hazard vs. harm reduction / price elasticity of emergency life-saving interventions.
-Key Datasets: CDC WONDER (Multiple Cause of Death), State Policy Databases (PDAPS), Agency for Healthcare Research and Quality (AHRQ HCUP emergency department data).
+
 2. Labor Economics & Productivity
 Topic: Synthetic Opioid Proximity and Labor Force Participation: A Spatial Panel Analysis
 Core Question: To what extent does localized synthetic opioid mortality depress prime-age (25–54) labor force participation rates across U.S. counties?
 Economic Theory: Human capital depletion, labor supply elasticity, and regional economic hysteresis.
 Key Datasets: Bureau of Labor Statistics (BLS Local Area Unemployment Statistics), Bureau of Economic Analysis (BEA regional income data), CDC WONDER county-level data.
-3. Public Finance & Local Government Budgets
+
+4. Public Finance & Local Government Budgets
 Topic: Fiscal Strain and Local Public Service Provision in High-Overdose Jurisdictions
 Core Question: How do surges in county-level fentanyl overdoses affect local government spending allocations toward emergency medical services (EMS), law enforcement, and public health relative to education or infrastructure?
 Economic Theory: Local public goods allocation, crowd-out effects, and fiscal capacity constraints.
 Key Datasets: U.S. Census Bureau Annual Survey of State and Local Government Finances, National EMS Information System (NEMSIS), CDC WONDER.
-4. Industrial Organization & Supply-Side Drug Economics
-Topic: Potency Substitution and Market Structure: The Economic Transition from Black-Tar Heroin to Synthetic Fentanyl
-Core Question: How did the supply-side shift from agricultural opioids (heroin) to synthetic opioids (fentanyl) alter drug potency-per-dollar, distribution efficiency, and localized violence?
-Economic Theory: Production function shifts, transportation costs per unit of active dose, and market structure under prohibition.
-Key Datasets: DEA System to Retrieve Information from Drug Evidence (STRIDE) / STARLiMS (drug purity and price metrics), National Forensic Laboratory Information System (NFLIS), Uniform Crime Reporting (UCR/NIBRS) crime data.
-5. Health Insurance & Safety Net Programs
+
+6. Health Insurance & Safety Net Programs
 Topic: Medicaid Expansion and Substance Use Disorder (SUD) Treatment Access during the Fentanyl Epidemic
 Core Question: Did states that expanded Medicaid under the Affordable Care Act experience higher rates of Buprenorphine/Methadone treatment uptake and lower relative growth in fentanyl mortality compared to non-expansion states?
 Economic Theory: Safety net elasticity, health insurance coverage shocks, and demand-side health capital accumulation.
