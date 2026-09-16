@@ -73,3 +73,33 @@ Topic: Medicaid Expansion and Substance Use Disorder (SUD) Treatment Access duri
 Core Question: Did states that expanded Medicaid under the Affordable Care Act experience higher rates of Buprenorphine/Methadone treatment uptake and lower relative growth in fentanyl mortality compared to non-expansion states?
 Economic Theory: Safety net elasticity, health insurance coverage shocks, and demand-side health capital accumulation.
 Key Datasets: Centers for Medicare & Medicaid Services (CMS) prescription utilization data, Substance Abuse and Mental Health Services Administration (SAMHSA TEDS-A/TEDS-D), CDC WONDER.
+
+09/07/26 POLICY RESEARCH
+Questions to ask: What are these policies and their objectives? Are they really able to impact de minimis trade, and are there any geograhpical differences in the implementation of these policies?
+
+1. Trade Facilitation and Trade Enforcement Act of 2015 (TFTEA)
+    Description: Protects economic security through trade enforcement, collaborates with the private sector through direct engagement and streamlines and modernizes through business transformation. Specifically, it raised the deminimis value from $200 to $800 per shipment.
+   Now, de minimis rule no longer applies- any shipment even under $800 is subject to U.S. Customs duties, fees, and taxes.
+   
+2. Synthetics Trafficking and Overdose Prevention Act of 2018 (STOP ACT)
+   Description: Provides CBP the processing of central international mail shipments to require the provision of advance electronic information on international mail shipments.
+
+3. Executive Order 14295
+   Description: U.S. suspended the duty free de minimis exemption for low value shipments alongside targeted tariffs to curb the supply chain of illicit synthetic opioids like fentanyl.
+
+   DATA COLLECTION OUTLINE:
+   1. Data Collection & Dataset Building
+Search Core Databases: Go to CBP.gov's "Stats and Summaries" page for annual De Minimis Shipments numbers (volume grew from ~220M shipments in FY2016 to over 1B in FY2024).
+Compile Enforcement Counts: Download CBP enforcement data specifically for fentanyl seizures in international mail facilities (IMFs) versus commercial express consignment hubs.
+Retrieve Oversight Reports: Query the GAO and USPS OIG databases using keywords "STOP Act implementation", "Section 321", and "Advance Electronic Data".
+2. Multi-Level Implementation Analysis Framework
+To analyze implementation across different levels of government and logistics, organize your framework along these three tiers:
+Macro / Policy Level (Federal & Executive):
+Legislative intent vs. actual regulatory rules enacted by Treasury, DHS, and U.S. Postal Service.
+Inter-agency friction (e.g., operational friction between USPS postal regulations and CBP customs enforcement).
+Meso / Operational Level (Port & Infrastructure):
+How Air Cargo Advance Screening (ACAS) and Type 86 Customs entries were deployed at major ports (e.g., JFK, LAX, Cincinnati, Memphis).
+Capacity challenges at International Mail Facilities (IMFs) in scanning millions of daily low-value packages.
+Micro / Private Sector & Compliance Level:
+Compliance burdens placed on global e-commerce platforms (Shein, Temu, Amazon) and foreign postal operators.
+Shift in carrier behaviors (e.g., shifting shipments from postal channels to express consignment carriers to ensure AED compliance).
