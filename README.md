@@ -165,7 +165,7 @@ Signed into law by President Barack Obama on February 24, 2016, TFTEA was the fi
 Why it was enacted: Congress intended to save CBP resources on inspecting low-value, low-risk shipments, lower duty collection costs (which often exceeded the duties collected on low-value items), and assist U.S. small businesses and consumers purchasing goods internationally.   
 Coalition For A Prosperous America
 The Unintended Consequence: Combined with the rapid algorithmic growth of direct-to-consumer (D2C) Chinese e-commerce platforms (e.g., Shein and Temu), TFTEA turned a minor customs administrative exemption into a massive import gateway.
-Quantitative Time Series: De Minimis Import Surge (FY2014–FY2025)
+Quantitative Time Series: De Minimis Import Surge (FY2014–FY2025) 
 Annual Package Volume under Section 321 (in Millions)
 1,400M ----------------------------------------------------------- 1,360M (FY24)
 1,200M ---------------------------------------------------- 1,050M (FY23)
