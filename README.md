@@ -1,7 +1,3 @@
-Project Progress Update: Section 321 De Minimis Trade & Fentanyl Supply
-Author: Belén Gonzalez
-Institution: San Diego State University
-
 Executive Summary
 This project evaluates the relationship between low-value, duty-free trade (de minimis under 19 U.S.C. § 1321) and the supply of illicit synthetic opioids (fentanyl, analogues, and precursor chemicals) across U.S. jurisdictions.
 While mortality and public health data are available at the state level via the CDC, official administrative data for de minimis shipments cannot be disaggregated by destination state or port of entry via standard FOIA channels. Customs and Border Protection (CBP) has formally confirmed that raw package data is technically unextractable and that port-level data is exempted from public release.
